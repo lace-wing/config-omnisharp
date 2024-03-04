@@ -1,0 +1,46 @@
+{
+	"RoslynExtensionsOptions": {
+		"enableDecompilationSupport": true,
+		"enableImportCompletion": true,
+		"enableAnalyzersSupport": false,
+		"inlayHintsOptions": {
+			"enableForParameters": true,
+			"forLiteralParameters": true,
+			"forIndexerParameters": true,
+			"forObjectCreationParameters": true,
+			"forOtherParameters": true,
+			"suppressForParametersThatDifferOnlyBySuffix": false,
+			"suppressForParametersThatMatchMethodIntent": false,
+			"suppressForParametersThatMatchArgumentName": false,
+			"enableForTypes": true,
+			"forImplicitVariableTypes": true,
+			"forLambdaParameterTypes": true,
+			"forImplicitObjectCreation": true
+		}
+	},
+	"RenameOptions": {
+		"RenameInComments": true,
+		"RenameOverloads": true,
+		"RenameInStrings": true
+	},
+	"FormattingOptions": {
+		"EnableEditorConfigSupport": false,
+		"OrganizeImports": true,
+		"TabSize": 4,
+		"UseTabs": false,
+		"NewLinesForBracesInAccessors": false,
+		"NewLinesForBracesInAnonymousMethods": false,
+		"NewLinesForBracesInAnonymousTypes": false,
+		"NewLinesForBracesInControlBlocks": false,
+		"NewLinesForBracesInLambdaExpressionBody": false,
+		"NewLinesForBracesInMethods": false,
+		"NewLinesForBracesInObjectCollectionArrayInitializers": false,
+		"NewLinesForBracesInProperties": false,
+		"NewLinesForBracesInTypes": false,
+		"NewLineForElse": true,
+		"NewLineForCatch": true,
+		"NewLineForFinally": true,
+		"LabelPositioning": "LeftMost",
+		"IndentSwitchCaseSectionWhenBlock": false
+	}
+}
